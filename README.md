@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Chat with me on keybase](https://keybase.io/koad/chat) or [find me in the matrix](https://matrix.to/#/@matrix:koad.sh)
+
 <!--
 **koad/koad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
