@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Keybase PGP](https://img.shields.io/keybase/pgp/koad?style=for-the-badge)
+
 [Chat with me on keybase](https://keybase.io/koad/chat) or [find me in the matrix](https://matrix.to/#/@matrix:koad.sh)
 
 
