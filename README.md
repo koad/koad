@@ -25,3 +25,6 @@ A king of all data is an individual who reaches a certain level of mastery in th
 
 [kingofalldata.com](https://kingofalldata.com)
 
+---
+
+BEGIN KEYBASE SALTPACK SIGNED MESSAGE. kXR7VktZdyH7rvq v5weRa0zkVLF9u3 p5OjMDVxNEwriCo qoL4kKjfDrdZqjK FTlqvHscRKxHsUM diXSxFF1JpLVgR4 Ms7u4II94ER6aLs D3dljGbKO6xNtha QpQdivhMs2xNa8p 5Ib7al08L3381ne W0BjszEnwb1HYRc ChxwAQ4w5KNC5Mp a419MBtGqyGdQSs Jr52lLl9FMUzvuj PCeylOgs9ysFvVL fTIM35t1TxAbk5S 0gEa5WyQCqTgwjJ RT039C6WacGJto2 HvGaD8. END KEYBASE SALTPACK SIGNED MESSAGE.
