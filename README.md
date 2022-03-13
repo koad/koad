@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Keybase PGP](https://img.shields.io/keybase/pgp/koad?style=for-the-badge)
+[![Keybase PGP](https://img.shields.io/keybase/pgp/koad?style=for-the-badge)](https://keybase.io/koad/pgp_keys.asc?fingerprint=a07f8cfecbf6b982eedac4f362d5c4866c247e00)
 
 [Chat with me on keybase](https://keybase.io/koad/chat) or [find me in the matrix](https://matrix.to/#/@matrix:koad.sh)
 
