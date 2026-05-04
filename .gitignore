@@ -1,0 +1,46 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later
+# ~/.koad-io/me/.gitignore
+# Controls which files in the sovereign identity repo are tracked vs local-only.
+# Tracked: IDENTITY.md, public keys, proofs, declarations.
+# Local-only: private keys, device artifacts, .env.
+
+# Private keys — never commit
+id/ed25519
+id/ecdsa
+id/rsa
+id/dsa
+
+# Private GPG key
+id/gpg.private.asc
+id/gpg-revocation.asc
+
+# Per-device private material — never commit
+id/devices/*/leaf.private.asc
+id/devices/*/device.key
+id/devices/*/ed25519
+
+# Old layout artifacts — defensive guards so test files don't leak
+id/leaf.private.asc
+id/leaf.public.asc
+id/device.key
+id/device.key.pub
+
+# GPG keyring
+keyring/
+
+# Local config — machine-specific, never commit
+.env
+
+# Dependencies
+node_modules/
+
+# Runtime
+var/
+proc/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+*.swp

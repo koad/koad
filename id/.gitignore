@@ -1,0 +1,24 @@
+# Private keys — never commit (old layout defensive guards)
+ed25519
+ecdsa
+rsa
+dsa
+gpg.private.asc
+gpg-revocation.asc
+leaf.private.asc
+leaf.public.asc
+device.key
+device.key.pub
+# SSL legacy artifacts
+ssl/
+# Per-device private material (covered by parent .gitignore too)
+devices/*/leaf.private.asc
+devices/*/device.key
+devices/*/ed25519
+# Keep per-device public sides and kingdom-level public keys
+!devices/*/leaf.public.asc
+!gpg.public.asc
+!master.fingerprint
+!label
+# Keep this file
+!.gitignore
