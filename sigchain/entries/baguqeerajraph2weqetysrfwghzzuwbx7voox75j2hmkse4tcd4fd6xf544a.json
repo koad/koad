@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "entity": "koad",
+  "timestamp": "2026-05-05T23:53:59.641Z",
+  "type": "koad.entity.genesis",
+  "payload": {
+    "entity_handle": "vesta",
+    "entity_key_fingerprint": "B1822070AEDF0FF32A0DCCEFA396E6F8112AE4F7",
+    "gestation_host": "wonderland",
+    "gestated_at": "2026-05-05T23:53:59.641Z",
+    "sovereign_key_fingerprint": "EC3D47D0CBDAFDA2E625A7BD93C5A0E2ED12B6FA"
+  },
+  "previous": "baguqeerakt2k7zaae6edxfjrphpaz3hbsb7brgxj6v524mfdkdzwj4f7kvnq",
+  "signature": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA512\n\n{\"entity\":\"koad\",\"payload\":{\"entity_handle\":\"vesta\",\"entity_key_fingerprint\":\"B1822070AEDF0FF32A0DCCEFA396E6F8112AE4F7\",\"gestated_at\":\"2026-05-05T23:53:59.641Z\",\"gestation_host\":\"wonderland\",\"sovereign_key_fingerprint\":\"EC3D47D0CBDAFDA2E625A7BD93C5A0E2ED12B6FA\"},\"previous\":\"baguqeerakt2k7zaae6edxfjrphpaz3hbsb7brgxj6v524mfdkdzwj4f7kvnq\",\"timestamp\":\"2026-05-05T23:53:59.641Z\",\"type\":\"koad.entity.genesis\",\"version\":1}\n-----BEGIN PGP SIGNATURE-----\nVersion: Keybase OpenPGP v2.1.17\nComment: https://keybase.io/crypto\n\nwl4EABMKAAYFAmn6gxcACgkQnFno4AW2PT6W4QD/Wg3ojkXA30dmsNuYSg05Em73\nY/x2PEwclUrZ1EIDZVAA/AyYWUF4EUJDRkQZpxzaRitwGgTqp9UDR6mXUXYiiaNR\n=bH27\n-----END PGP SIGNATURE-----\n"
+}
