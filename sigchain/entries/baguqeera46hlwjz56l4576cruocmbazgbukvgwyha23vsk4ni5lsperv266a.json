@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "entity": "koad",
+  "timestamp": "2026-05-05T16:42:12.927Z",
+  "type": "koad.identity.genesis",
+  "payload": {
+    "entity_handle": "koad",
+    "master_fingerprint": "E12BA41BA926FACBD823FC6917148F3ED9841B98",
+    "master_pubkey_armored": "-----BEGIN PGP PUBLIC KEY BLOCK-----\nVersion: Keybase OpenPGP v2.1.17\nComment: https://keybase.io/crypto\n\nxjMEZceGlxYJKwYBBAHaRw8BAQdAjn0ZTEWAVaCMwEFsoo7wmZBkx9QZfLXdQ99p\n4dstgR3NFGtvYWQgQCBraW5nb2ZhbGxkYXRhwnYEExYKAB4FAmXHhpcCGwMDCwkH\nAxUKCAIeAQIXgAMWAgECGQEACgkQFxSPPtmEG5gAlQEAMxtos9zB/4HWsp3pCSPd\njDNdrJ6bxARjL3RPbjIuylQBAENssWeexyHKv8BzAeLDqvd6JnBiEiv+znSlXU4N\nfCQAzlYEZceGlxIIKoZIzj0DAQcCAwR/h5uwqLiveNI/Aj4GvOcUutzc46MrVXUf\n4A7Mofu6LzWeq58NNMS6n5BNgoNcwY/hXO6vapARh0G+VEzIvPmcAwEKCcJnBBgW\nCgAPBQJlx4aXBQkAAAAAAhsMAAoJEBcUjz7ZhBuYh5MBALDPhdoYIJxRngGAm0Ex\nKsjjUI111uIL0n3EBSMfNCmCAQB/CwdrTjWXzQJ4BKKqTp2Ex14HH8CWZNpVZI9t\n8kCBAQ==\n=SLKF\n-----END PGP PUBLIC KEY BLOCK-----\n",
+    "created": "2026-05-05T16:42:12.927Z",
+    "description": "koad sovereign identity"
+  },
+  "previous": null,
+  "signature": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA512\n\n{\"entity\":\"koad\",\"payload\":{\"created\":\"2026-05-05T16:42:12.927Z\",\"description\":\"koad sovereign identity\",\"entity_handle\":\"koad\",\"master_fingerprint\":\"E12BA41BA926FACBD823FC6917148F3ED9841B98\",\"master_pubkey_armored\":\"-----BEGIN PGP PUBLIC KEY BLOCK-----\\nVersion: Keybase OpenPGP v2.1.17\\nComment: https://keybase.io/crypto\\n\\nxjMEZceGlxYJKwYBBAHaRw8BAQdAjn0ZTEWAVaCMwEFsoo7wmZBkx9QZfLXdQ99p\\n4dstgR3NFGtvYWQgQCBraW5nb2ZhbGxkYXRhwnYEExYKAB4FAmXHhpcCGwMDCwkH\\nAxUKCAIeAQIXgAMWAgECGQEACgkQFxSPPtmEG5gAlQEAMxtos9zB/4HWsp3pCSPd\\njDNdrJ6bxARjL3RPbjIuylQBAENssWeexyHKv8BzAeLDqvd6JnBiEiv+znSlXU4N\\nfCQAzlYEZceGlxIIKoZIzj0DAQcCAwR/h5uwqLiveNI/Aj4GvOcUutzc46MrVXUf\\n4A7Mofu6LzWeq58NNMS6n5BNgoNcwY/hXO6vapARh0G+VEzIvPmcAwEKCcJnBBgW\\nCgAPBQJlx4aXBQkAAAAAAhsMAAoJEBcUjz7ZhBuYh5MBALDPhdoYIJxRngGAm0Ex\\nKsjjUI111uIL0n3EBSMfNCmCAQB/CwdrTjWXzQJ4BKKqTp2Ex14HH8CWZNpVZI9t\\n8kCBAQ==\\n=SLKF\\n-----END PGP PUBLIC KEY BLOCK-----\\n\"},\"previous\":null,\"timestamp\":\"2026-05-05T16:42:12.927Z\",\"type\":\"koad.identity.genesis\",\"version\":1}\n-----BEGIN PGP SIGNATURE-----\nVersion: Keybase OpenPGP v2.1.17\nComment: https://keybase.io/crypto\n\nwl4EABYKAAYFAmn6HeQACgkQFxSPPtmEG5j5uQEAKkx75sAqyszbPNJfx2oTeSji\nT3zx6H5lwkf2LVPfmD0BANlL7gd741TtqB6xg/eg+HcH/S4hn9iZj9b14VPEiFIH\n=lomd\n-----END PGP SIGNATURE-----\n"
+}
