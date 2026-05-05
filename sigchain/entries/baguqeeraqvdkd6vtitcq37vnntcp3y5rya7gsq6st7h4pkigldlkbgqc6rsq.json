@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "entity": "koad",
+  "timestamp": "2026-05-05T23:59:06.618Z",
+  "type": "koad.entity.genesis",
+  "payload": {
+    "entity_handle": "aegis",
+    "entity_key_fingerprint": "FB12827517CA9DDF4BF3336B93DF170AE861FF20",
+    "gestation_host": "wonderland",
+    "gestated_at": "2026-05-05T23:59:06.618Z",
+    "sovereign_key_fingerprint": "EC3D47D0CBDAFDA2E625A7BD93C5A0E2ED12B6FA"
+  },
+  "previous": "baguqeera23fvcmcs2pclv7newhlopgqrfqokobywi3yz4jrq3hwyvojzyfma",
+  "signature": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA512\n\n{\"entity\":\"koad\",\"payload\":{\"entity_handle\":\"aegis\",\"entity_key_fingerprint\":\"FB12827517CA9DDF4BF3336B93DF170AE861FF20\",\"gestated_at\":\"2026-05-05T23:59:06.618Z\",\"gestation_host\":\"wonderland\",\"sovereign_key_fingerprint\":\"EC3D47D0CBDAFDA2E625A7BD93C5A0E2ED12B6FA\"},\"previous\":\"baguqeera23fvcmcs2pclv7newhlopgqrfqokobywi3yz4jrq3hwyvojzyfma\",\"timestamp\":\"2026-05-05T23:59:06.618Z\",\"type\":\"koad.entity.genesis\",\"version\":1}\n-----BEGIN PGP SIGNATURE-----\nVersion: Keybase OpenPGP v2.1.17\nComment: https://keybase.io/crypto\n\nwl4EABMKAAYFAmn6hEoACgkQnFno4AW2PT7tEgEA2/BWr/euhyLjTOSLMJbCEZ2W\nqhjgHqKZhZykO9tK1rYBAMBQjTXGFTM7T8q0HHP9YaxLPyt8HBIagLzUY5uaHx50\n=HN10\n-----END PGP SIGNATURE-----\n"
+}

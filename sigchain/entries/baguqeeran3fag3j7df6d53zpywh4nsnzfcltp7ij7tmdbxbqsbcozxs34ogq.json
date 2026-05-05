@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "entity": "koad",
+  "timestamp": "2026-05-05T23:59:06.618Z",
+  "type": "koad.entity.leaf-authorize",
+  "payload": {
+    "authorized_at": "2026-05-05T23:59:06.618Z",
+    "authorized_by": "EC3D47D0CBDAFDA2E625A7BD93C5A0E2ED12B6FA",
+    "entity_handle": "aegis",
+    "host": "wonderland",
+    "leaf_fingerprint": "24B255F6E24B2F1A99459EAD831179B441345357"
+  },
+  "previous": "baguqeeraqvdkd6vtitcq37vnntcp3y5rya7gsq6st7h4pkigldlkbgqc6rsq",
+  "signature": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA512\n\n{\"entity\":\"koad\",\"payload\":{\"authorized_at\":\"2026-05-05T23:59:06.618Z\",\"authorized_by\":\"EC3D47D0CBDAFDA2E625A7BD93C5A0E2ED12B6FA\",\"entity_handle\":\"aegis\",\"host\":\"wonderland\",\"leaf_fingerprint\":\"24B255F6E24B2F1A99459EAD831179B441345357\"},\"previous\":\"baguqeeraqvdkd6vtitcq37vnntcp3y5rya7gsq6st7h4pkigldlkbgqc6rsq\",\"timestamp\":\"2026-05-05T23:59:06.618Z\",\"type\":\"koad.entity.leaf-authorize\",\"version\":1}\n-----BEGIN PGP SIGNATURE-----\nVersion: Keybase OpenPGP v2.1.17\nComment: https://keybase.io/crypto\n\nwl4EABMKAAYFAmn6hEsACgkQnFno4AW2PT7QKQEA61MxH0LTHlN9JcjCQCj3pU0n\nLhEupy43nfqpTeSbx2wBANrHCmQemSLyQDxKrJAuq+beyl1siCJKIdvayJH7w6ws\n=O3AG\n-----END PGP SIGNATURE-----\n"
+}
