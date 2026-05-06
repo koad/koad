@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "entity": "koad",
+  "timestamp": "2026-05-06T00:19:39.636Z",
+  "type": "koad.entity.genesis",
+  "payload": {
+    "entity_handle": "iris",
+    "entity_key_fingerprint": "AE1C3898EC48A08FCE27F0357CF1133EDBE786AA",
+    "gestation_host": "wonderland",
+    "gestated_at": "2026-05-06T00:19:39.636Z",
+    "sovereign_key_fingerprint": "EC3D47D0CBDAFDA2E625A7BD93C5A0E2ED12B6FA"
+  },
+  "previous": "baguqeeradbcowffb6si3ham4c6f6fw4xi4x2cmi52if3frlnxokxdp4q3yvq",
+  "signature": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA512\n\n{\"entity\":\"koad\",\"payload\":{\"entity_handle\":\"iris\",\"entity_key_fingerprint\":\"AE1C3898EC48A08FCE27F0357CF1133EDBE786AA\",\"gestated_at\":\"2026-05-06T00:19:39.636Z\",\"gestation_host\":\"wonderland\",\"sovereign_key_fingerprint\":\"EC3D47D0CBDAFDA2E625A7BD93C5A0E2ED12B6FA\"},\"previous\":\"baguqeeradbcowffb6si3ham4c6f6fw4xi4x2cmi52if3frlnxokxdp4q3yvq\",\"timestamp\":\"2026-05-06T00:19:39.636Z\",\"type\":\"koad.entity.genesis\",\"version\":1}\n-----BEGIN PGP SIGNATURE-----\nVersion: Keybase OpenPGP v2.1.17\nComment: https://keybase.io/crypto\n\nwl4EABMKAAYFAmn6iRsACgkQnFno4AW2PT6pPQD/agQjDEkLn5eLzjgDxzQ4rUzw\nnwZWTz8w/ZatWz74TmwBANTaB8/IcNiHCoXT0L2evU181JAI8PkygEkNzVj9+s1B\n=eecP\n-----END PGP SIGNATURE-----\n"
+}
