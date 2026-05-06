@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "entity": "koad",
+  "timestamp": "2026-05-06T00:24:02.922Z",
+  "type": "koad.entity.genesis",
+  "payload": {
+    "entity_handle": "cacula",
+    "entity_key_fingerprint": "FA9308465EEA2B682EDA6AD9E9BEB17D31053BE8",
+    "gestation_host": "wonderland",
+    "gestated_at": "2026-05-06T00:24:02.922Z",
+    "sovereign_key_fingerprint": "EC3D47D0CBDAFDA2E625A7BD93C5A0E2ED12B6FA"
+  },
+  "previous": "baguqeeraj6and6pjm4nlmo54a4aqgzakxzog7txp4jx3trv7h6txqf4pxw3a",
+  "signature": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA512\n\n{\"entity\":\"koad\",\"payload\":{\"entity_handle\":\"cacula\",\"entity_key_fingerprint\":\"FA9308465EEA2B682EDA6AD9E9BEB17D31053BE8\",\"gestated_at\":\"2026-05-06T00:24:02.922Z\",\"gestation_host\":\"wonderland\",\"sovereign_key_fingerprint\":\"EC3D47D0CBDAFDA2E625A7BD93C5A0E2ED12B6FA\"},\"previous\":\"baguqeeraj6and6pjm4nlmo54a4aqgzakxzog7txp4jx3trv7h6txqf4pxw3a\",\"timestamp\":\"2026-05-06T00:24:02.922Z\",\"type\":\"koad.entity.genesis\",\"version\":1}\n-----BEGIN PGP SIGNATURE-----\nVersion: Keybase OpenPGP v2.1.17\nComment: https://keybase.io/crypto\n\nwl4EABMKAAYFAmn6iiIACgkQnFno4AW2PT4IzwEAgP6j8K8wA+XKynzvAX8+t8nt\nuydtHMoAR6wQHcypQVQBAPEbAIw/5W4Nas+oaiA0rRr41jcBX8hLl+KiUPPGNxKS\n=eaKe\n-----END PGP SIGNATURE-----\n"
+}
